@@ -1,6 +1,6 @@
 cask 'micronaut' do
-  version '3.0.0-M2'
-  sha256 '458ab90db2d96baaeaaa4e50bcd0360028e79753140b5f2688164b1dbb0fccf6'
+  version '2.5.7'
+  sha256 '66663febadf0bbf04426eee83570b120e5b9e0b7555ec4df378a0e0d0576f403'
 
   # github.com/micronaut-projects/micronaut-starter was verified as official when first introduced to the cask
   url "https://github.com/micronaut-projects/micronaut-starter/releases/download/v#{version}/mn-darwin-amd64-v#{version}.zip"
