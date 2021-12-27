@@ -2,9 +2,9 @@
 
 ## Installation
 
-`brew cask install micronaut-projects/tap/micronaut`
+`brew install micronaut-projects/tap/micronaut --cask`
 
-Or `brew tap micronaut-projects/tap` and then `brew cask install micronaut`.
+Or `brew tap micronaut-projects/tap` and then `brew install micronaut --cask`.
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
