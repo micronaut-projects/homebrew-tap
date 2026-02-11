@@ -1,10 +1,10 @@
 cask 'micronaut' do
   arch arm: "aarch64", intel: "amd64"
 
-  version '4.10.7'
+  version '4.10.8'
 
-  sha256 arm: '23ecf68b740ddf8058968bb766c7081b4e6f258fa86f8d81476a32340b2a0e13',
-         intel: '70c8071664e1e17f6ce5a9555cd2cff21f2df1d8a38f82fbc84e28df4973d4ce'
+  sha256 arm: '3f77ae822e7cd0f4c00cb19d0e9fdb70b20f9976f4ebe121214c29b12b8344f7',
+         intel: '244fbbcdf17f557beed97c49ddaa859a6839806263d4ed8026fcf49ad6b01fff'
 
   url "https://github.com/micronaut-projects/micronaut-starter/releases/download/v#{version}/mn-darwin-#{arch}-v#{version}.zip"
 
